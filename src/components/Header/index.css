@@ -1,0 +1,12 @@
+.nav-container{
+    background-color:  #f1f5f9;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+
+}
+
+.logo{
+    height: 10vh;
+    margin-left: 50px;
+}

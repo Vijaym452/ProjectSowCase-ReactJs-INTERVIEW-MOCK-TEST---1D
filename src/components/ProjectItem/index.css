@@ -1,0 +1,16 @@
+.list-item {
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 1px 1px #e2e8f0;
+  width: 240px;
+}
+
+.project-image {
+  width: 240px;
+  border-radius: 10px;
+}
+
+.name {
+  margin-left: 20px;
+}
